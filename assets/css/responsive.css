@@ -1,0 +1,8 @@
+@media screen and (max-width: 886px) {
+    .content, .side {
+        float: none;
+    width: 100%;
+    padding-bottom: 400px;    
+    }
+
+}
